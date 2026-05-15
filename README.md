@@ -17,7 +17,7 @@ These two rules create a scenario in which the optimal solution to the puzzle re
 
 <ol>
   <li>The number of starting disks.</li>
-  <li>Whether the current move is even or odd.</li>
+  <li>Whether the current move number is even or odd.</li>
 </ol>
 
 Understanding these two factors is vital to understanding the iterative solution to the Tower of Hanoi that is seen in TowerTactician, as these patterns are used to identify which specific move should be made at any given moment to complete the puzzle in the optimal number of moves.
