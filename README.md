@@ -4,6 +4,8 @@
 
 # Introduction
 
+TowerTactician is a program that uses iteration to always solve the Tower of Hanoi in the minimum number of possible moves.
+
 The Tower of Hanoi is a famous puzzle dating back to 1883 and invented by a French mathematician named Édouard Lucas. The puzzle consists of a number of disks(n) that sit upon the first of 3 towers. The goal of the puzzle is to move each of the disks from tbe first tower to the third tower by following only 2 rules:
 
 <ol>
@@ -18,7 +20,7 @@ These two rules create a scenario in which the optimal solution to the puzzle re
   <li>Whether the current move is even or odd.</li>
 </ol>
 
-Understanding these two factors is vital to understanding the iterative solution to the Tower of Hanoi that is seen in this Hanoi Solver, as these patterns are used to identify which specific move should be made at any given moment to complete the puzzle in the optimal number of moves.
+Understanding these two factors is vital to understanding the iterative solution to the Tower of Hanoi that is seen in TowerTactician, as these patterns are used to identify which specific move should be made at any given moment to complete the puzzle in the optimal number of moves.
 
 # The Iterative Solution
 
