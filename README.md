@@ -1,10 +1,10 @@
-# Hanoi Solver
+## TowerTactician
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # Introduction
 
-TowerTactician is a program that uses iteration to always solve the Tower of Hanoi in the minimum number of possible moves.
+TowerTactician is a program that uses iteration in Python to always solve the Tower of Hanoi in the minimum number of possible moves.
 
 The Tower of Hanoi is a famous puzzle dating back to 1883 and invented by a French mathematician named Édouard Lucas. The puzzle consists of a number of disks(n) that sit upon the first of 3 towers. The goal of the puzzle is to move each of the disks from tbe first tower to the third tower by following only 2 rules:
 
